@@ -1,0 +1,13 @@
+build_mau:
+  outputs:
+    dev:
+      account: sfedu02-lvb17920
+      database: USER_DB_HIPPO
+      password: Kanaparthinikhil1311
+      role: TRAINING_ROLE
+      schema: analytics
+      threads: 1
+      type: snowflake
+      user: HIPPO
+      warehouse: HIPPO_QUERY_WH
+  target: dev
