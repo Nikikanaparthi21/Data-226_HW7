@@ -1,6 +1,6 @@
 # 📊 DATA 226 - Assignment 7 (dbt + Snowflake)
 
-### Author: Naman Chheda  
+### Author: Nikhil Kanaparthi
 ### Course: DATA 226 - ELT Deep Dive (Week 10)
 
 ---
